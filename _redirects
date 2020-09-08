@@ -1,0 +1,13 @@
+/jsonfield/*  https://laymonage-slides-jsonfield.netlify.app/:splat  200!
+/bachelor-thesis/*  https://laymonage-slides-bachelor-thesis.netlify.app/:splat  200!
+/wagtail-jsonfield/*  https://laymonage-slides-wagtail-jsonfield.netlify.app/:splat  200!
+/fs-paths/* https://laymonage-slides-fs-paths.netlify.app/:splat  200!
+/modern-wagtail/* https://laymonage-slides-modern-wagtail.netlify.app/:splat  200!
+/fosdem-2024/* https://laymonage-slides-fosdem-2024.netlify.app/:splat  200!
+/django-life/* https://laymonage-slides-django-life.netlify.app/:splat  200!
+/student-maintainer/* https://laymonage-slides-student-maintainer.netlify.app/:splat  200!
+/tests-django-main/* https://laymonage-slides-tests-django-main.netlify.app/:splat  200!
+/internship/*  https://laymonage-slides-internship.netlify.app/:splat  200!
+/git-init/*  https://laymonage-slides-git-init.netlify.app/:splat  200!
+/nextjs-portfolio/*  https://laymonage-slides-nextjs-portfolio.netlify.app/:splat  200!
+/ https://slides.laymonage.com/jsonfield/  302
