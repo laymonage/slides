@@ -1,0 +1,5 @@
+/jsonfield/*  https://laymonage-slides-jsonfield.netlify.app/:splat  200!
+/bachelor-thesis/*  https://laymonage-slides-bachelor-thesis.netlify.app/:splat  200!
+/internship/*  https://laymonage-slides-internship.netlify.app/:splat  200!
+/git-init/*  https://laymonage-slides-git-init.netlify.app/:splat  200!
+/ https://slides.laymonage.com/jsonfield/  302
